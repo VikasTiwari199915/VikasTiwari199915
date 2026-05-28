@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikasTiwari199915
-- 👀 I like developing android apps.
-- 🌱 I’m currently learning making iOS Apps.
+- 👀 I like developing native android & iOS apps.
+- 🌱 I know many programming languages and I continue to learn more as needed.
 - 🏢 I work as a System Engineer at TCS.
 - 📫 If you want to contact me here's my email id: vikastiwari199915@gmail.com
 
